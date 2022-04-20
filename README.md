@@ -25,7 +25,7 @@ Folder               | Description
 
 
 
-[![CI](https://github.com/DHIVYA-345/M2-EMBEDDED_ATMEGA_ULTRASONIC_SOUND_SENSOR/actions/workflows/main.yml/badge.svg)](https://github.com/DHIVYA-345/M2-EMBEDDED_ATMEGA_ULTRASONIC_SOUND_SENSOR/actions/workflows/main.yml)
+[![CI](https://github.com//kavitha9945/M2_DistanceMeasurement_/actions/workflows/main.yml/badge.svg)](https://github.com//kavitha9945/M2_DistanceMeasurement_/actions/workflows/main.yml)
 
 [![Code Quality - Static Code - Cppcheck](https://github.com/DHIVYA-345/M2-EMBEDDED_ATMEGA_ULTRASONIC_SOUND_SENSOR/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/DHIVYA-345/M2-EMBEDDED_ATMEGA_ULTRASONIC_SOUND_SENSOR/actions/workflows/c-cpp.yml)
 
