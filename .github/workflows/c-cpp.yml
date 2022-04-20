@@ -1,4 +1,4 @@
-name: build-Linux
+name: Code Quality - Static Code - Cppcheck
 
 on:
   push:
