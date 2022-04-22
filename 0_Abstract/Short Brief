@@ -1,1 +1,5 @@
-
+we have some difficulties in obtaining the distance that we want to measure. Even though, measuring tape is an easy option, but this kind of tool will have a limitation 
+of manual error. Before this, engineers have produced a range finder module but in the end, they find out the module have many disadvantages like limitation for distance, different result 
+for different coloured obstacles, and need a calibration for every time before starts using it. Manual distance measuring is always  done at the expense of human error. 
+Precise and fix measurement of low range distance, is the main objective for this project. This device can measure distance in the range of 0.5m to 4m with the accuracy 
+of 1cm.This project is used to measure the distance by using ultrasonic sensors.
